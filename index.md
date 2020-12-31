@@ -2,8 +2,8 @@
 
 Test information
 
-[Test Link](index.md)
-[Other test Link](abesginow.github.io/index.md)
+[Test Link](test.md)
+[Other test Link](abesginow.github.io/test.md)
 
 
 ## Welcome to GitHub Pages
