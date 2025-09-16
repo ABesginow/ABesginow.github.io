@@ -1,0 +1,4 @@
+/* Protect MathJax v3 (CommonHTML) fonts */
+mjx-container[jax="CHTML"] * {
+  font-family: MJXTEX, MJXZERO, "Times New Roman", serif !important;
+}
